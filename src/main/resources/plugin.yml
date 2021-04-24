@@ -1,0 +1,6 @@
+name: CustomItems
+version: ${project.version}
+main: dev.thelecrafter.dimensionz.items.ItemsPlugin
+api-version: 1.16
+authors: [ TheLeCrafter ]
+description: This plugin adds custom items
